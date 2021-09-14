@@ -1,0 +1,31 @@
+Consider the SAT on PTA that you attempted. 
+
+If your roll number ends in an even number use Delta T_min =9 C, 
+
+If your roll number ends in an odd number use Delta T_min =11 C, 
+For this, determine 
+ 1. pinch point, min cooling and heating.  Sketch the hot and cold  composite curves. You may use your favourite plotting/graphing software. 
+
+2. Minimum area required (area target)
+
+3. Minimum number of units (using pinch rules)
+
+4. Total cost target
+
+ 
+
+You may use the following information
+
+U=0.001 MW/m^2 C
+
+Heating is available at 300  C (Steam)
+
+cooling is provided by cooling water at 15 C with a maximum return temperature of 30 C
+
+Cost of heat exchanger 40000 + 500 A, where A is area in sq m
+
+Cost of steam =1,20,000 (/MW/y)
+
+Cost of cooling water= 10,000 (/MW/y)
+
+Use annualization factor =0.25
